@@ -211,5 +211,5 @@ PERMISION_INTEGER = 473430336
 
 bot.add_cog(Voz(bot))
 #bot.loop.create_task(locura())
-bot.run("ODQ1NjI2OTI0MDc1MDU3MTky.YKjtcQ.0mqcIzc2mzWhy14c2XuxrNmaXkY")
+bot.run("token")
 
